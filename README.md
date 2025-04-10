@@ -1,4 +1,4 @@
-1.my_demo_data.jupyter是主要执行文件，如果想要验证结果可以直接运行该jupyter文件
-2.本项目直接使用了数据集处理后的多视图特征，如果想要修改数据集预处理方法可以修改feature_extractor文件夹下的文件（包含matlab代码和python代码）
-3.具体处理的数据集和相关超参数可以根据需要在my_demo_data.jupyter里进行调整
-4.combine_figure.jupyter仅用于合并图片并不涉及算法本身
+# 1.my_demo_data.jupyter是主要执行文件，如果想要验证结果可以直接运行该jupyter文件
+# 2.本项目直接使用了数据集处理后的多视图特征，如果想要修改数据集预处理方法可以修改feature_extractor文件夹下的文件（包含matlab代码和python代码）
+# 3.具体处理的数据集和相关超参数可以根据需要在my_demo_data.jupyter里进行调整
+# 4.combine_figure.jupyter仅用于合并图片并不涉及算法本身
